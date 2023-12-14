@@ -6,7 +6,7 @@ Group: K4111c
 Author: Gabdrashitov Rinat Ramilevich
 Lab: Lab1
 Date of create: 06.12.2023
-Date of finished: -.12.2023
+Date of finished: 07.12.2023
 
 ## Лабораторная работа №1 "Установка Docker и Minikube, мой первый манифест."
 ### Описание
