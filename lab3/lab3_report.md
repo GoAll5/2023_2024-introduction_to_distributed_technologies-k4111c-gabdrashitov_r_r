@@ -42,3 +42,7 @@ Date of finished: -.12.2023
 ![r1](screens/result1.png)
 ![r2](screens/result2.png)
 ![r3](screens/result3.png)
+
+# Схема
+
+![schema](screens/schema.png)
