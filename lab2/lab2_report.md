@@ -6,7 +6,7 @@ Group: K4111c
 Author: Gabdrashitov Rinat Ramilevich
 Lab: Lab2
 Date of create: 14.12.2023
-Date of finished: -.12.2023
+Date of finished: 14.12.2023
 
 ## Лабораторная работа №2 "Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг сервиса."
 ### Описание
