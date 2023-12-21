@@ -1,0 +1,23 @@
+apiVersion: crd.projectcalico.org/v1
+kind: IPPool
+metadata:
+  name: v-1
+spec:
+  cidr: 192.168.0.0/24
+  ipipMode: Always
+  natOutgoing: true
+  nodeSelector: variant == "1"
+  vxlanMode: Never
+
+---
+
+apiVersion: crd.projectcalico.org/v1
+kind: IPPool
+metadata:
+  name: v-2
+spec:
+  cidr: 192.168.1.0/24
+  ipipMode: Always
+  natOutgoing: true
+  nodeSelector: variant == "2"
+  vxlanMode: Never
