@@ -24,13 +24,13 @@ Date of finished: -.12.2023
 
 - Присвоим запущенным нодам метки варианты
 
-![change location](screens/change variant.png)
+![c](screens/change_variant.png)
 
 - Создаем файл манифеста для назначения пула IP узлам на основе их меток
-![ippool](screens/ippool.png)
+![ippool1](screens/ippool.png)
 
 - Удаляем дефолтный Ippools и создаем свои
-![ippool](screens/del.png)
+![ippool2](screens/del.png)
 ![v](screens/variants.png)
 
 - Создаем манифест из 2 лр и запускаем на 8000 порту приложение
